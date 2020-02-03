@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiquethoh.tomreznick.com/sitemap.xml
